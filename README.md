@@ -19,7 +19,7 @@ A simple React app that displays the current weather conditions and forecast for
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/react-weather-app.git`
+1. Clone the repository: `git clone https://github.com/ikc20/react-weather-app.git`
 2. Navigate to the project directory: `cd react-weather-app`
 3. Install dependencies: `npm install`
 
@@ -34,7 +34,7 @@ A simple React app that displays the current weather conditions and forecast for
 
 ## API Key
 
-To use this app, you'll need to obtain an API key from [Weather API Provider]. Once you have the key, create a `.env` file in the project root and add the following:
+To use this app, you'll need to obtain an API key from OpenWeatherMap website. Once you have the key, create a `.env` file in the project root and add the following:
 
 plaintext
 REACT_APP_WEATHER_API_KEY=496271fc50e7eaab31acdddc98d92145
