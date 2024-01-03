@@ -12,10 +12,6 @@ A simple React app that displays the current weather conditions and forecast for
 - Temperature in Celsius
 - Weather icon representation
 
-## Screenshots
-
-[Include screenshots or GIFs of your app in action]
-
 ## Technologies Used
 
 - React
